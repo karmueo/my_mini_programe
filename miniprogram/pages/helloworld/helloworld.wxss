@@ -1,0 +1,5 @@
+/* miniprogram/pages/helloworld/helloworld.wxss */
+.title{
+  color: red;
+  font-size: 30px;
+}
